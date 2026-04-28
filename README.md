@@ -1,4 +1,3 @@
-HEAD
 # ? こんにちは、<紀伊大地> です
 
 ## 自己紹介
@@ -9,7 +8,7 @@ HEAD
 ## これから作りたいもの
 <色々なものを作りたい>
 
-## Hi there ?窓
+## Hi there 
 
 <!--
 **kichi-d/kichi-d** is a 笨ｨ _special_ 笨ｨ repository because its `README.md` (this file) appears on your GitHub profile.
